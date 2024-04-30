@@ -23,8 +23,8 @@ class ProfilePage extends StatelessWidget {
         ),
         body: const Center(
           child: ProfileWidget(
-            name: 'John Doe',
-            email: 'john.doe@example.com',
+            name: 'Abdullah Masum',
+            email: 'abdullahmasum99@gmail.com',
           ),
         ),
       ),
