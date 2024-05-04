@@ -45,7 +45,7 @@ class _SplashScreenState extends State<SplashScreen>
           // Animated text color
           final textColor = ColorTween(
             begin: Colors.black,
-            end: Colors.white,
+            end: Colors.cyan,
           ).evaluate(_animation);
 
           return Container(
